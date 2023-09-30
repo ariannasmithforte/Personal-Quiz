@@ -11,3 +11,7 @@ Here is my personality quiz that I designed and developed utilizing HTML, CSS, a
 - paper.jpg <"https://github.com/ariannasmithforte/Personal-Quiz/assets/142956824/3c166c1c-da59-4ed2-b717-f0946de625af">
 - liba.jpg <"https://github.com/ariannasmithforte/Personal-Quiz/assets/142956824/24d82b10-2745-43e1-96d4-edc1d729f8c0">
 - bookstore.jpg <"https://github.com/ariannasmithforte/Personal-Quiz/assets/142956824/23ece3e2-27a1-4079-8680-49c57e0d8ab6">
+
+
+
+<img width="1440" alt="Screenshot 2023-09-29 at 11 54 58 PM" src="https://github.com/ariannasmithforte/Personal-Quiz/assets/142956824/01872e0d-2137-4904-a75a-a4b90eee3366">
